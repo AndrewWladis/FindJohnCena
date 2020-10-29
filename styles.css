@@ -1,0 +1,34 @@
+.text-center {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    opacity: 0;
+}
+
+img:hover {
+    opacity: 1000;
+}
+
+.level-2-place {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.level-1-place {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.level-3-place {
+    display: flex;
+    justify-content: center;
+}
+
+.maui-row {
+    display: flex;
+    flex-direction: row;
+}
